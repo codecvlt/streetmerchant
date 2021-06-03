@@ -56,6 +56,13 @@ export const BestBuyCa: Store = {
         'https://www.bestbuy.ca/en-ca/product/nvidia-geforce-rtx-3060-ti-8gb-gddr6-video-card/15166285?intl=nosplash',
     },
     {
+      brand: 'nvidia',
+      model: 'founders edition',
+      series: '3080ti',
+      url:
+        'https://www.bestbuy.ca/en-ca/product/nvidia-geforce-rtx-3080-ti-12gb-gddr6x-video-card/15530045?intl=nosplash'
+    },
+    {
       brand: 'zotac',
       model: 'twin edge oc',
       series: '3060ti',

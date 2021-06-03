@@ -41,6 +41,7 @@ export type Series =
   | 'captcha-deterrent'
   | '3060'
   | '3060ti'
+  | '3080ti'
   | '3070'
   | '3080'
   | '3090'

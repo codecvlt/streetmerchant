@@ -231,6 +231,7 @@ const notifications = {
     notifyGroupSeries: {
       3060: envOrArray(process.env.DISCORD_NOTIFY_GROUP_3060),
       '3060ti': envOrArray(process.env.DISCORD_NOTIFY_GROUP_3060TI),
+      '3080ti': envOrArray(process.env.DISCORD_NOTIFY_GROUP_3080TI),
       3070: envOrArray(process.env.DISCORD_NOTIFY_GROUP_3070),
       3080: envOrArray(process.env.DISCORD_NOTIFY_GROUP_3080),
       3090: envOrArray(process.env.DISCORD_NOTIFY_GROUP_3090),
@@ -404,6 +405,7 @@ const store = {
     series: {
       3060: envOrNumber(process.env.MAX_PRICE_SERIES_3060),
       '3060ti': envOrNumber(process.env.MAX_PRICE_SERIES_3060TI),
+      '3080ti': envOrNumber(process.env.MAX_PRICE_SERIES_3080TI),
       3070: envOrNumber(process.env.MAX_PRICE_SERIES_3070),
       3080: envOrNumber(process.env.MAX_PRICE_SERIES_3080),
       3090: envOrNumber(process.env.MAX_PRICE_SERIES_3090),
@@ -437,6 +439,7 @@ const store = {
   showOnlySeries: envOrArray(process.env.SHOW_ONLY_SERIES, [
     '3060',
     '3060ti',
+    '3080ti',
     '3070',
     '3080',
     '3090',

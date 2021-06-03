@@ -488,6 +488,13 @@ export const BestBuy: Store = {
       series: '3060',
       url: 'https://api.bestbuy.com/click/-/6454318/pdp',
     },
+    {
+      brand: 'nvidia',
+      model: 'founders edition',
+      series: '3080ti',
+      url:
+        'https://www.bestbuy.com/site/nvidia-geforce-rtx-3080-ti-12gb-gddr6x-pci-express-4-0-graphics-card-titanium-and-black/6462956.p?skuId=6462956&intl=nosplash'
+    },
   ],
   name: 'bestbuy',
 };
