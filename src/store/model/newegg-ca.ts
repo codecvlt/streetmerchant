@@ -189,6 +189,14 @@ export const NeweggCa: Store = {
     },
     {
       brand: 'evga',
+      itemNumber: '14-487-549',
+      model: 'xc3 black',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/evga-geforce-rtx-3080-ti-12g-p5-3953-kr/p/N82E16814487549',
+    },
+    {
+      brand: 'evga',
       itemNumber: '14-487-521',
       model: 'xc3',
       series: '3080',
@@ -202,6 +210,14 @@ export const NeweggCa: Store = {
       series: '3080',
       url:
         'https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3885-kr/p/N82E16814487520',
+    },
+    {
+      brand: 'evga',
+      itemNumber: '14-487-548',
+      model: 'xc3 ultra',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/evga-geforce-rtx-3080-ti-12g-p5-3955-kr/p/N82E16814487548',
     },
     {
       brand: 'msi',
@@ -249,6 +265,14 @@ export const NeweggCa: Store = {
       series: '3080',
       url:
         'https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080eagle-oc-10gd/p/N82E16814932330',
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-439',
+      model: 'eagle oc',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/gigabyte-geforce-rtx-3080-ti-gv-n308teagle-12gd/p/N82E16814932439',
     },
     {
       brand: 'gigabyte',

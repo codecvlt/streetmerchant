@@ -401,6 +401,14 @@ export const Newegg: Store = {
         'https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-o10g-gaming/p/N82E16814126452',
     },
     {
+      brand: 'asus',
+      itemNumber: '14-126-510',
+      model: 'tuf oc',
+      series: '3080ti',
+      url:
+        'https://www.newegg.com/asus-geforce-rtx-3080-ti-tuf-rtx3080ti-12g-gaming/p/N82E16814126510',
+    },
+    {
       brand: 'zotac',
       cartUrl:
         'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814500504',
